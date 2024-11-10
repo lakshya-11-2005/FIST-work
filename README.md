@@ -5,4 +5,4 @@ This is my fist git hub project
 auther lakhya gupta
 <br>
 <be>
-create for learing
+create for knowleage
